@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1acI5ZBm2GJVf19jrCI5PsZjurN/Xc+r3Izl2bGM7s9jpZYQzCuC0+wI/0+ZfDn/gB8Ry196eo7e1XUDSFyBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\costa\\OneDrive\\Área de Trabalho\\Atividade 10e\\Projeto_Web-Lh_Pets_Alunos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\costa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\costa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
